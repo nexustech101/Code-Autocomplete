@@ -4,7 +4,8 @@
 # Ignore the "build" directory
 build/
 venv/
-__pycache__/
+__pycache__
+
 # Ignore the "logs" directory and all files within it
 logs/
 
